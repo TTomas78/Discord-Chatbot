@@ -30,7 +30,7 @@ Activate the virtual environment
 Install dependencies
 
 ```bash
-pip install -m requirements.txt
+pip install -r requirements.txt
 ```
 
 Create a .env with the following information on your root directory
