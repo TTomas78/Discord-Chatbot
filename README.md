@@ -1,4 +1,4 @@
-# Webscrapper generator with ChatGPT
+# Conversational bot with ChatGPT
 
 How to run the project:
 
